@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Aslıhan 
-👩‍🎓I gratuated from Management Information Systems bachelor. freshly.<br/>
-🧠I am interested in Deep Learning, Transfer learning, Visual Language Models, Large Language Models and GenAI.<br/>
-💻I work with Python. I develop image processing and deep learning projects using libraries such as Pytorch, Matplotlib, Pandas, Numpy, Opencv.<br/>
-🦾I've developed open-source datasets and models before. Don't forget to check out my project, GenYOLO-Leaf, which I developed as part of YOLO using the zero-shot evaluation method.<br/>
-📝At the same time, I aim to progress academically and in this context, I transform my projects into academic output to be published in international journals.<br/>
+👩‍🎓 I gratuated from Management Information Systems bachelor freshly.<br/>
+🧠 I am interested in Deep Learning, Transfer learning, Visual Language Models, Large Language Models and GenAI.<br/>
+💻 I work with Python and develop deep learning projects using libraries such as Pytorch, Matplotlib, Pandas, Numpy, Opencv.<br/>
+🦾 I've developed open-source datasets and models before. Don't forget to check out my project, GenYOLO-Leaf, which I developed as part of YOLO using the zero-shot evaluation method.<br/>
+📝 At the same time, I aim to progress academically and in this context, I transform my projects into academic output to be published in international journals.<br/>
 
 
 ## 🌐 Socials:
